@@ -15,3 +15,9 @@ For instance.
 
 ### There is a check box to correct prices for inflation 
 ### There is a check box to change y axis scale to log scale
+Click the Below Link for the Application.
+https://yrigoyena2727.shinyapps.io/AndresApp1/
+
+
+Click the Below Link for the Rpubs presentation.
+https://rpubs.com/yrigoyena22/708628
